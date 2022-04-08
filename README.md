@@ -1,7 +1,7 @@
-:sparkles:SONG GEOUNG WON:sparkles:
+:sparkles:송경원 SONG GEOUNG WON:sparkles:
 =============
-### :satisfied: hi there! welcome to my github.
-### :computer: i want to be a web developer
+### :satisfied: 안녕하세요! 제 깃허브를 방문해주셔서 감사합니다.
+### :computer: 현재 웹개발자를 꿈꾸고 있습니다.
 <br>
 
 ### :muscle: my Skills
